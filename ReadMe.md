@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kira</h1>
 <h3 align="center">I'm was born in Thai Binh province. At now, I live in HCM City. I'm student at HCMUTE. My major is Information Technology. And currently i work with Java and Angular Framework.</h3>
-
+<a href="https://app.daily.dev/haokira"><img src="https://api.daily.dev/devcards/v2/dGxKrISbOyCHLAwnPSYUH.png?type=default&r=j75" width="356" alt="Phạm Văn Hào's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvhao2002&label=Profile%20views&color=0e75b6&style=flat" alt="pvhao2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvhao2002" alt="pvhao2002" /></a> </p>
